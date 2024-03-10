@@ -11,7 +11,7 @@ so...
 
 1. load https://code.visualstudio.com/
 2. load https://nodejs.org/en/
-3. load the VSCode [LiveServer extension by Ritwick Dey](vscode:extension/ritwickdey.LiveServer) (so that your codeHS JS graphics in HTML projects will launch locally in your browser from VSCode)
+3. load the VSCode [LiveServer extension by Ritwick Dey](vscode:extension/ritwickdey.LiveServer) https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer (so that your codeHS JS graphics in HTML projects will launch locally in your browser from VSCode)
 
 ...then and get after it!  
 ie.  
@@ -22,6 +22,6 @@ eg.
 -Maybe add a 'Watch' for 'circles'  
 -Then Run.StartDebugging and when it breaks hover the cursor over the different variables.  
 Are you seeing what you expected? or something unanticipated?  
--Then 'continue' on the VCR buttons up top.  
+-Then 'Continue' (or 'Step Into') on the VCR buttons up top.  
 -Rinse/repeat.  
 Enjoy!
