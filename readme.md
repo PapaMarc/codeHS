@@ -10,6 +10,6 @@ so...
 
 1. load https://code.visualstudio.com/
 2. load https://nodejs.org/en/
-3. load [LiveServer extension by Ritwick Dey](vscode:extension/ritwickdey.LiveServer) (so that your codeHS JS graphics in HTML projects will launch locally in your browser)
+3. load the VSCode [LiveServer extension by Ritwick Dey](vscode:extension/ritwickdey.LiveServer) (so that your codeHS JS graphics in HTML projects will launch locally in your browser from VSCode)
 
 ...and get after it!
