@@ -1,4 +1,4 @@
-#codeHS in a proper IDE
+# codeHS in a proper IDE
 
 created so that my daughter Syd and other in her class
 could try working on codeHS projects within a true IDE
